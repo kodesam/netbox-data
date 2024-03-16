@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Openstack",
+    "Clusters": 2,
+    "Description": "",
+    "ID": 2,
+    "Slug": "Openstack",
+    "Created": "",
+    "Last updated": "",
+    "Tags": ""
+  },
+  {
+    "Name": "OpenShift",
+    "Clusters": 3,
+    "Description": "",
+    "ID": 3,
+    "Slug": "Openshift",
+    "Created": "",
+    "Last updated": "",
+    "Tags": ""
+  }
+]
